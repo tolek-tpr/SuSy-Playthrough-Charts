@@ -272,9 +272,368 @@
       },
       "toNode": "14239e4fdb73c0c4",
       "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "72edf4d4220447ee",
+      "fromSide": "bottom",
+      "id": "d8437ca5dacd718a",
+      "styleAttributes": {
+      },
+      "toNode": "1dc5a1c972d5424a",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "4dad733f5de84cba",
+      "fromSide": "bottom",
+      "id": "9934600e9355100e",
+      "styleAttributes": {
+      },
+      "toNode": "1dc5a1c972d5424a",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "bc8bcabb99ebfad0",
+      "fromSide": "bottom",
+      "id": "49480bc3f9d63a3c",
+      "styleAttributes": {
+      },
+      "toNode": "1dc5a1c972d5424a",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "7111f7f271ce0b2f",
+      "fromSide": "bottom",
+      "id": "9a4c22b8777388a6",
+      "styleAttributes": {
+      },
+      "toNode": "1dc5a1c972d5424a",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "6801588bae844fee",
+      "fromSide": "bottom",
+      "id": "ceb3647973bdfd3f",
+      "styleAttributes": {
+      },
+      "toNode": "4dad733f5de84cba",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "a04b91fbc89d05c2",
+      "fromSide": "bottom",
+      "id": "16d2ae7d5af672b2",
+      "styleAttributes": {
+      },
+      "toNode": "6801588bae844fee",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "3e14ca121de38e68",
+      "fromSide": "bottom",
+      "id": "8aa21d173b5a4cd9",
+      "styleAttributes": {
+      },
+      "toNode": "6801588bae844fee",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "c7c7b4b67b5deeb9",
+      "fromSide": "bottom",
+      "id": "7d0912b4c92c0334",
+      "styleAttributes": {
+      },
+      "toNode": "a04b91fbc89d05c2",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "6bf496c7b1145d26",
+      "fromSide": "bottom",
+      "id": "5b3ad4406f90642c",
+      "styleAttributes": {
+      },
+      "toNode": "c7c7b4b67b5deeb9",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "54b8a29cab4910ee",
+      "fromSide": "bottom",
+      "id": "b0ae6cdca14e4b2f",
+      "styleAttributes": {
+      },
+      "toNode": "72edf4d4220447ee",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "276ef2c7007a5c02",
+      "fromSide": "bottom",
+      "id": "99c378cd68c20b92",
+      "label": "Ferrosilicon",
+      "styleAttributes": {
+      },
+      "toNode": "54b8a29cab4910ee",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "e6230f65c3d87333",
+      "fromSide": "right",
+      "id": "f7d314fe2b4e3468",
+      "styleAttributes": {
+      },
+      "toNode": "276ef2c7007a5c02",
+      "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromNode": "c66ef879fe79aa70",
+      "fromSide": "right",
+      "id": "5fabe11e635c3729",
+      "styleAttributes": {
+      },
+      "toNode": "276ef2c7007a5c02",
+      "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromNode": "a50445f9afb268b8",
+      "fromSide": "right",
+      "id": "6066ff3c6715558c",
+      "styleAttributes": {
+      },
+      "toNode": "276ef2c7007a5c02",
+      "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromNode": "330882a1108fe516",
+      "fromSide": "right",
+      "id": "db7c5d40652773c1",
+      "styleAttributes": {
+      },
+      "toNode": "07c48bfe963ddabe",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "07c48bfe963ddabe",
+      "fromSide": "right",
+      "id": "314d33be6b3f594d",
+      "styleAttributes": {
+      },
+      "toNode": "c66ef879fe79aa70",
+      "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromNode": "1ca3bab62de0e3d9",
+      "fromSide": "right",
+      "id": "ce088ae8ae925a9e",
+      "styleAttributes": {
+      },
+      "toNode": "65b93dc9f8246be6",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "65b93dc9f8246be6",
+      "fromSide": "right",
+      "id": "eb438456ceaccf0e",
+      "styleAttributes": {
+      },
+      "toNode": "e6230f65c3d87333",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "7bdf4c375d6ebdcf",
+      "fromSide": "right",
+      "id": "7ed5754d7b3c5166",
+      "styleAttributes": {
+      },
+      "toNode": "a50445f9afb268b8",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "a91b26df9794c990",
+      "fromSide": "top",
+      "id": "f309cef722d4461c",
+      "label": "Flint Dust",
+      "styleAttributes": {
+      },
+      "toNode": "7bdf4c375d6ebdcf",
+      "toSide": "bottom"
+    },
+    {
+      "color": "6",
+      "fromNode": "e949549aadf0c399",
+      "fromSide": "right",
+      "id": "5141f628cd21c592",
+      "label": "Flint",
+      "styleAttributes": {
+      },
+      "toNode": "a91b26df9794c990",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "6d591340ebd5e68e",
+      "fromSide": "bottom",
+      "id": "0faedcbe47aa55d6",
+      "label": "Gravel",
+      "styleAttributes": {
+      },
+      "toNode": "e949549aadf0c399",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "3515b42741e746b9",
+      "fromSide": "right",
+      "id": "5a6431c9a40e203d",
+      "styleAttributes": {
+      },
+      "toNode": "6d591340ebd5e68e",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "16f6bf1f2552bcec",
+      "fromSide": "bottom",
+      "id": "66479c5be192925b",
+      "styleAttributes": {
+      },
+      "toNode": "bc8bcabb99ebfad0",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "69cea46e558b3d41",
+      "fromSide": "bottom",
+      "id": "63fc904a00bb9276",
+      "label": "Quicklime Dust",
+      "styleAttributes": {
+      },
+      "toNode": "16f6bf1f2552bcec",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "b13f12e0d6a11a1f",
+      "fromSide": "bottom",
+      "id": "701b05fd899e2a4b",
+      "label": "Limestone Dust",
+      "styleAttributes": {
+      },
+      "toNode": "69cea46e558b3d41",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "a34969a5968ae93b",
+      "fromSide": "bottom",
+      "id": "1b5cc6a9a60d91d6",
+      "styleAttributes": {
+      },
+      "toNode": "b13f12e0d6a11a1f",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "e028da795ee0c1e7",
+      "fromSide": "bottom",
+      "id": "e9e53c28e5be4e47",
+      "styleAttributes": {
+      },
+      "toNode": "7111f7f271ce0b2f",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "7e5da6b2554408e9",
+      "fromSide": "bottom",
+      "id": "1987a6c7c6695a73",
+      "label": "Fluorite Dust",
+      "styleAttributes": {
+      },
+      "toNode": "e028da795ee0c1e7",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "f5e6f9c3d11268a8",
+      "fromSide": "bottom",
+      "id": "b708e6ce50418796",
+      "label": "Impure Pile Of Fluorite Dust",
+      "styleAttributes": {
+      },
+      "toNode": "7e5da6b2554408e9",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "4f200fca6c4af485",
+      "fromSide": "bottom",
+      "id": "4a20b32cee7d259d",
+      "label": "Crushed Fluorite Ore",
+      "styleAttributes": {
+      },
+      "toNode": "f5e6f9c3d11268a8",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "5cdddd28be3870b5",
+      "fromSide": "bottom",
+      "id": "eca270f29bf19a96",
+      "styleAttributes": {
+      },
+      "toNode": "4f200fca6c4af485",
+      "toSide": "top"
     }
   ],
   "nodes": [
+    {
+      "color": "3",
+      "height": 1020,
+      "id": "c46c568dc0aa6dcd",
+      "label": "Carburized Stainless Steel",
+      "type": "group",
+      "width": 1320,
+      "x": -1400,
+      "y": -20
+    },
+    {
+      "color": "3",
+      "height": 580,
+      "id": "d801ea79e33ef8b2",
+      "label": "Ferrosilicon",
+      "type": "group",
+      "width": 1360,
+      "x": -2120,
+      "y": -760
+    },
+    {
+      "color": "2",
+      "height": 340,
+      "id": "9ab1a1b09ba77445",
+      "label": "Manganese Production",
+      "type": "group",
+      "width": 1200,
+      "x": -1380,
+      "y": 640
+    },
     {
       "color": "6",
       "height": 60,
@@ -512,28 +871,54 @@
     {
       "color": "5",
       "height": 60,
-      "id": "2496b949f37aa808",
+      "id": "4dad733f5de84cba",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "text": "Anthracite",
+      "text": "Ferrochromium Dust",
       "type": "text",
       "width": 260,
-      "x": -460,
-      "y": 680
+      "x": -180,
+      "y": -280
     },
     {
       "color": "5",
       "height": 60,
-      "id": "3a970c6a3afa64c7",
+      "id": "bc8bcabb99ebfad0",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "text": "Tiny Pile Of Calcite Dust",
+      "text": "Small Pile Of Quicklime Dust",
       "type": "text",
       "width": 260,
-      "x": -160,
-      "y": 680
+      "x": 180,
+      "y": -280
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "72edf4d4220447ee",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Small Pile Of Ferrosilicon Dust",
+      "type": "text",
+      "width": 260,
+      "x": -540,
+      "y": -280
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "7111f7f271ce0b2f",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Small Pile Of Fluorite Dust",
+      "type": "text",
+      "width": 260,
+      "x": 520,
+      "y": -280
     },
     {
       "color": "5",
@@ -545,34 +930,8 @@
       "text": "Pyrolusite Dust",
       "type": "text",
       "width": 260,
-      "x": -760,
-      "y": 680
-    },
-    {
-      "color": "6",
-      "height": 60,
-      "id": "277a722b2f547f91",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Packager",
-      "type": "text",
-      "width": 260,
-      "x": -160,
-      "y": 800
-    },
-    {
-      "color": "5",
-      "height": 60,
-      "id": "a2f03592e5fdd8cb",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Calcite Dust",
-      "type": "text",
-      "width": 260,
-      "x": -160,
-      "y": 920
+      "x": -1060,
+      "y": 660
     },
     {
       "color": "6",
@@ -584,8 +943,8 @@
       "text": "Ore Washing Plant",
       "type": "text",
       "width": 260,
-      "x": -760,
-      "y": 800
+      "x": -1060,
+      "y": 780
     },
     {
       "color": "6",
@@ -597,8 +956,8 @@
       "text": "Forge Hammer",
       "type": "text",
       "width": 260,
-      "x": -760,
-      "y": 920
+      "x": -1060,
+      "y": 900
     },
     {
       "color": "6",
@@ -610,8 +969,8 @@
       "text": "Macerator",
       "type": "text",
       "width": 260,
-      "x": -1060,
-      "y": 920
+      "x": -1360,
+      "y": 900
     },
     {
       "color": "5",
@@ -623,8 +982,424 @@
       "text": "Pyrolusite Ore",
       "type": "text",
       "width": 260,
+      "x": -1360,
+      "y": 780
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "2496b949f37aa808",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Anthracite",
+      "type": "text",
+      "width": 260,
+      "x": -760,
+      "y": 660
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "3a970c6a3afa64c7",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Tiny Pile Of Calcite Dust",
+      "type": "text",
+      "width": 260,
+      "x": -460,
+      "y": 660
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "277a722b2f547f91",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Packager",
+      "type": "text",
+      "width": 260,
+      "x": -460,
+      "y": 780
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "a2f03592e5fdd8cb",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Calcite Dust",
+      "type": "text",
+      "width": 260,
+      "x": -460,
+      "y": 900
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "6801588bae844fee",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Mixer",
+      "type": "text",
+      "width": 260,
+      "x": -180,
+      "y": -400
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "a04b91fbc89d05c2",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Iron Dust",
+      "type": "text",
+      "width": 260,
+      "x": -360,
+      "y": -560
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "3e14ca121de38e68",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Chrome Dust",
+      "type": "text",
+      "width": 260,
+      "x": 0,
+      "y": -560
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "c7c7b4b67b5deeb9",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Macerator",
+      "type": "text",
+      "width": 260,
+      "x": -360,
+      "y": -680
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "6bf496c7b1145d26",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Iron Ingot",
+      "type": "text",
+      "width": 260,
+      "x": -360,
+      "y": -800
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "54b8a29cab4910ee",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Packager",
+      "type": "text",
+      "width": 260,
+      "x": -670,
+      "y": -400
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "276ef2c7007a5c02",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "EBF",
+      "type": "text",
+      "width": 260,
+      "x": -670,
+      "y": -560
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "a50445f9afb268b8",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Silicon Dioxide Dust",
+      "type": "text",
+      "width": 260,
       "x": -1060,
-      "y": 800
+      "y": -400
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "c66ef879fe79aa70",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Iron Dust",
+      "type": "text",
+      "width": 260,
+      "x": -1060,
+      "y": -560
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "e6230f65c3d87333",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Carbon Dust",
+      "type": "text",
+      "width": 260,
+      "x": -1060,
+      "y": -710
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "07c48bfe963ddabe",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Macerator",
+      "type": "text",
+      "width": 260,
+      "x": -1400,
+      "y": -560
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "330882a1108fe516",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Iron Ingot",
+      "type": "text",
+      "width": 260,
+      "x": -1740,
+      "y": -560
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "65b93dc9f8246be6",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Centrifuge",
+      "type": "text",
+      "width": 260,
+      "x": -1400,
+      "y": -710
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "1ca3bab62de0e3d9",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Anthracite",
+      "type": "text",
+      "width": 260,
+      "x": -1740,
+      "y": -710
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "7bdf4c375d6ebdcf",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Centrifuge",
+      "type": "text",
+      "width": 260,
+      "x": -1400,
+      "y": -400
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "a91b26df9794c990",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Macerator",
+      "type": "text",
+      "width": 260,
+      "x": -1400,
+      "y": -280
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "e949549aadf0c399",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Sifter",
+      "type": "text",
+      "width": 260,
+      "x": -1740,
+      "y": -280
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "6d591340ebd5e68e",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Forge Hammer",
+      "type": "text",
+      "width": 260,
+      "x": -1740,
+      "y": -400
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "3515b42741e746b9",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Cobblestone",
+      "type": "text",
+      "width": 260,
+      "x": -2080,
+      "y": -400
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "16f6bf1f2552bcec",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Packager",
+      "type": "text",
+      "width": 260,
+      "x": 180,
+      "y": -400
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "69cea46e558b3d41",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Electric Furnace",
+      "type": "text",
+      "width": 260,
+      "x": 310,
+      "y": -560
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "b13f12e0d6a11a1f",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Macerator",
+      "type": "text",
+      "width": 260,
+      "x": 310,
+      "y": -680
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "a34969a5968ae93b",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Limestone",
+      "type": "text",
+      "width": 260,
+      "x": 310,
+      "y": -800
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "e028da795ee0c1e7",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Packager",
+      "type": "text",
+      "width": 260,
+      "x": 520,
+      "y": -400
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "7e5da6b2554408e9",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Ore Washer",
+      "type": "text",
+      "width": 260,
+      "x": 650,
+      "y": -560
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "f5e6f9c3d11268a8",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Forge Hammer",
+      "type": "text",
+      "width": 260,
+      "x": 650,
+      "y": -680
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "4f200fca6c4af485",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Macerator",
+      "type": "text",
+      "width": 260,
+      "x": 650,
+      "y": -800
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "5cdddd28be3870b5",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Fluorite Ore",
+      "type": "text",
+      "width": 260,
+      "x": 650,
+      "y": -920
     }
   ]
 }
