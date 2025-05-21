@@ -1,0 +1,165 @@
+{
+  "edges": [
+    {
+      "color": "6",
+      "fromNode": "8c5178f3d241c718",
+      "fromSide": "bottom",
+      "id": "c385697fd458df2e",
+      "styleAttributes": {
+      },
+      "toNode": "82b594659bc5039e",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "8af6b84598a0d4d6",
+      "fromSide": "right",
+      "id": "9b884a70c7bb1d02",
+      "styleAttributes": {
+      },
+      "toNode": "8c5178f3d241c718",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "329fd5bee58a419c",
+      "fromSide": "bottom",
+      "id": "72563b846990b522",
+      "label": "Sulfur Trioxide Gas",
+      "styleAttributes": {
+      },
+      "toNode": "8c5178f3d241c718",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "6251459b1a890870",
+      "fromSide": "bottom",
+      "id": "dd48aed7f2714399",
+      "label": "Iron (III) Sulfate Dust",
+      "styleAttributes": {
+      },
+      "toNode": "329fd5bee58a419c",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "bc71dd7b2088574b",
+      "fromSide": "bottom",
+      "id": "c87103d95d5b1458",
+      "label": "Pyrite Dust",
+      "styleAttributes": {
+      },
+      "toNode": "6251459b1a890870",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "14d509183144f1cc",
+      "fromSide": "bottom",
+      "id": "e91454e7812730c8",
+      "styleAttributes": {
+      },
+      "toNode": "bc71dd7b2088574b",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {
+    "frontmatter": {
+    },
+    "version": "1.0-1.0"
+  },
+  "nodes": [
+    {
+      "color": "5",
+      "height": 60,
+      "id": "82b594659bc5039e",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Sulfuric Acid",
+      "type": "text",
+      "width": 260,
+      "x": -140,
+      "y": -100
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "8c5178f3d241c718",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Mixer",
+      "type": "text",
+      "width": 260,
+      "x": -140,
+      "y": -240
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "8af6b84598a0d4d6",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Water",
+      "type": "text",
+      "width": 260,
+      "x": -500,
+      "y": -240
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "329fd5bee58a419c",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Roaster",
+      "type": "text",
+      "width": 260,
+      "x": -140,
+      "y": -380
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "6251459b1a890870",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Roaster",
+      "type": "text",
+      "width": 260,
+      "x": -140,
+      "y": -520
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "bc71dd7b2088574b",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Macerator",
+      "type": "text",
+      "width": 260,
+      "x": -140,
+      "y": -660
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "14d509183144f1cc",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Pyrite Ore",
+      "type": "text",
+      "width": 260,
+      "x": -140,
+      "y": -800
+    }
+  ]
+}

@@ -1,0 +1,515 @@
+{
+  "edges": [
+    {
+      "color": "6",
+      "fromNode": "67eb35a728bc8bcc",
+      "fromSide": "bottom",
+      "id": "707c32d6b8e42133",
+      "styleAttributes": {
+      },
+      "toNode": "0a520fcee2c2a20b",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromNode": "4af3d07a7d1f3930",
+      "fromSide": "bottom",
+      "id": "25d704124d563669",
+      "label": "Diode",
+      "styleAttributes": {
+      },
+      "toNode": "67eb35a728bc8bcc",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromNode": "7e611eaaf274c481",
+      "fromSide": "bottom",
+      "id": "8e90088221112c8d",
+      "label": "Good Circuit board",
+      "styleAttributes": {
+      },
+      "toNode": "67eb35a728bc8bcc",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "50f56510d459110c",
+      "fromSide": "bottom",
+      "id": "f4569e79cbf10657",
+      "label": "1x Copper Wire",
+      "styleAttributes": {
+      },
+      "toNode": "67eb35a728bc8bcc",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "76ed04dda9839a73",
+      "fromSide": "right",
+      "id": "1b76427b8d9283e5",
+      "styleAttributes": {
+      },
+      "toNode": "67eb35a728bc8bcc",
+      "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromNode": "1ebc12ee48989eaa",
+      "fromSide": "right",
+      "id": "9f885bf057a104a0",
+      "styleAttributes": {
+      },
+      "toNode": "76ed04dda9839a73",
+      "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromNode": "ca2314f02f4a5f89",
+      "fromSide": "bottom",
+      "id": "629c43d0ab0e620f",
+      "styleAttributes": {
+      },
+      "toNode": "67eb35a728bc8bcc",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "426bd56e2bf5f2d8",
+      "fromSide": "bottom",
+      "id": "c4485dec9dacb8f1",
+      "styleAttributes": {
+      },
+      "toNode": "47397e1ddefd815a",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "5ab5731c3e2dec8a",
+      "fromSide": "bottom",
+      "id": "f249ec55d01f7658",
+      "styleAttributes": {
+      },
+      "toNode": "f16dbbbacec0d3c5",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromNode": "47397e1ddefd815a",
+      "fromSide": "right",
+      "id": "9f6ff5cdb119dd98",
+      "label": "Fine Copper Wire",
+      "styleAttributes": {
+      },
+      "toNode": "4af3d07a7d1f3930",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromNode": "f16dbbbacec0d3c5",
+      "fromSide": "bottom",
+      "id": "53f67b7736126230",
+      "label": "Small Pile Of Galena Dust",
+      "styleAttributes": {
+      },
+      "toNode": "4af3d07a7d1f3930",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromNode": "30074d83fdad580c",
+      "fromSide": "bottom",
+      "id": "b12d8fc17843afef",
+      "label": "Liquid Glass",
+      "styleAttributes": {
+      },
+      "toNode": "4af3d07a7d1f3930",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "300969331ba8e067",
+      "fromSide": "bottom",
+      "id": "c7700c561f6d3b03",
+      "styleAttributes": {
+      },
+      "toNode": "30074d83fdad580c",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromNode": "17dc6cdc96ebdcd2",
+      "fromSide": "bottom",
+      "id": "0b77e4a1a66fcdc6",
+      "label": "Phenolic Circuit Board",
+      "styleAttributes": {
+      },
+      "toNode": "7e611eaaf274c481",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromNode": "f87340ba6d8723ab",
+      "fromSide": "bottom",
+      "id": "3e2aedc66072d8e2",
+      "label": "Glue",
+      "styleAttributes": {
+      },
+      "toNode": "17dc6cdc96ebdcd2",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromNode": "459dff1003a5669f",
+      "fromSide": "bottom",
+      "id": "694cc1b77d19000b",
+      "label": "Resin",
+      "styleAttributes": {
+      },
+      "toNode": "f87340ba6d8723ab",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "80727789583ffd65",
+      "fromSide": "bottom",
+      "id": "683e1a042853ca5f",
+      "styleAttributes": {
+      },
+      "toNode": "459dff1003a5669f",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromNode": "42df3b7ae3fd0c26",
+      "fromSide": "bottom",
+      "id": "1235726aecc23644",
+      "label": "1x Silver Wire",
+      "styleAttributes": {
+      },
+      "toNode": "7e611eaaf274c481",
+      "toSide": "right"
+    },
+    {
+      "color": "5",
+      "fromNode": "5273b4c595473827",
+      "fromSide": "bottom",
+      "id": "855325cd350e5a5b",
+      "styleAttributes": {
+      },
+      "toNode": "42df3b7ae3fd0c26",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "e1c8ac7bd614a2d5",
+      "fromSide": "bottom",
+      "id": "d4acf2bc4995f556",
+      "styleAttributes": {
+      },
+      "toNode": "50f56510d459110c",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {
+    "frontmatter": {
+    },
+    "startNode": "379a4d0fe5b311a2",
+    "version": "1.0-1.0"
+  },
+  "nodes": [
+    {
+      "color": "3",
+      "height": 400,
+      "id": "7686ee9279a265ee",
+      "label": "Diode Line",
+      "type": "group",
+      "width": 1080,
+      "x": -1040,
+      "y": -680
+    },
+    {
+      "color": "3",
+      "height": 640,
+      "id": "de59abb7eb9532ff",
+      "label": "Good Circuit Board Line",
+      "type": "group",
+      "width": 660,
+      "x": 100,
+      "y": -980
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "1ebc12ee48989eaa",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Tin/Soldering Alloy",
+      "type": "text",
+      "width": 260,
+      "x": -720,
+      "y": 40
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "76ed04dda9839a73",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Extractor",
+      "type": "text",
+      "width": 260,
+      "x": -390,
+      "y": 40
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "0a520fcee2c2a20b",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Good Electronic Circuit",
+      "type": "text",
+      "width": 260,
+      "x": -60,
+      "y": 180
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "67eb35a728bc8bcc",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Circuit Assembler",
+      "type": "text",
+      "width": 260,
+      "x": -60,
+      "y": 40
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "426bd56e2bf5f2d8",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Copper",
+      "type": "text",
+      "width": 260,
+      "x": -1000,
+      "y": -520
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "47397e1ddefd815a",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Wiremill",
+      "type": "text",
+      "width": 260,
+      "x": -1000,
+      "y": -380
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "300969331ba8e067",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Glass Block",
+      "type": "text",
+      "width": 260,
+      "x": -700,
+      "y": -640
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "30074d83fdad580c",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Extractor",
+      "type": "text",
+      "width": 260,
+      "x": -700,
+      "y": -520
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "4af3d07a7d1f3930",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Assembler",
+      "type": "text",
+      "width": 260,
+      "x": -520,
+      "y": -380
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "ca2314f02f4a5f89",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Electronic Circuit",
+      "type": "text",
+      "width": 260,
+      "x": -520,
+      "y": -160
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "e1c8ac7bd614a2d5",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Copper Ingot",
+      "type": "text",
+      "width": 260,
+      "x": 400,
+      "y": -280
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "17dc6cdc96ebdcd2",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Assembler",
+      "type": "text",
+      "width": 260,
+      "x": 140,
+      "y": -580
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "7e611eaaf274c481",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Crafter",
+      "type": "text",
+      "width": 260,
+      "x": 140,
+      "y": -440
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "5ab5731c3e2dec8a",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Galena Dust",
+      "type": "text",
+      "width": 260,
+      "x": -260,
+      "y": -640
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "f16dbbbacec0d3c5",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Packager",
+      "type": "text",
+      "width": 260,
+      "x": -260,
+      "y": -520
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "80727789583ffd65",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Sticky Resin",
+      "type": "text",
+      "width": 260,
+      "x": 140,
+      "y": -940
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "459dff1003a5669f",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Centrifuge",
+      "type": "text",
+      "width": 260,
+      "x": 140,
+      "y": -820
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "f87340ba6d8723ab",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Distillery",
+      "type": "text",
+      "width": 260,
+      "x": 140,
+      "y": -700
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "42df3b7ae3fd0c26",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Wiremill",
+      "type": "text",
+      "width": 260,
+      "x": 460,
+      "y": -580
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "5273b4c595473827",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Silver Ingot",
+      "type": "text",
+      "width": 260,
+      "x": 460,
+      "y": -700
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "50f56510d459110c",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Wiremill",
+      "type": "text",
+      "width": 260,
+      "x": 400,
+      "y": -160
+    }
+  ]
+}

@@ -1,0 +1,489 @@
+{
+  "edges": [
+    {
+      "color": "6",
+      "fromNode": "1f2d6e86ae8f9bcf",
+      "fromSide": "bottom",
+      "id": "52b0f5172b9265db",
+      "styleAttributes": {
+      },
+      "toNode": "6b9de29bcbb1839b",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "19dbd7e07f93cc47",
+      "fromSide": "left",
+      "id": "04d2f8fa0187cd05",
+      "styleAttributes": {
+      },
+      "toNode": "1f2d6e86ae8f9bcf",
+      "toSide": "right"
+    },
+    {
+      "color": "6",
+      "fromNode": "ef0acb552bec8d06",
+      "fromSide": "bottom",
+      "id": "4c4ae643ae8767d5",
+      "label": "Gold Dust",
+      "styleAttributes": {
+      },
+      "toNode": "1f2d6e86ae8f9bcf",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "ef0acb552bec8d06",
+      "fromSide": "right",
+      "id": "e922a8ba2757027d",
+      "styleAttributes": {
+      },
+      "toNode": "b42bfef1422527b6",
+      "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromNode": "ef0acb552bec8d06",
+      "fromSide": "right",
+      "id": "019d7510b8f53db4",
+      "styleAttributes": {
+      },
+      "toNode": "45d8ef252a7f35dd",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "45d8ef252a7f35dd",
+      "fromSide": "top",
+      "id": "77d8e2e9f9be46a3",
+      "styleAttributes": {
+      },
+      "toNode": "bce0203b1f4e92b4",
+      "toSide": "bottom"
+    },
+    {
+      "color": "6",
+      "fromNode": "bce0203b1f4e92b4",
+      "fromSide": "top",
+      "id": "af043b3b04d3bba0",
+      "styleAttributes": {
+      },
+      "toNode": "bfa43c4d237160f9",
+      "toSide": "bottom"
+    },
+    {
+      "color": "5",
+      "fromNode": "bfa43c4d237160f9",
+      "fromSide": "left",
+      "id": "18a72e427dc24a69",
+      "styleAttributes": {
+      },
+      "toNode": "9b9431e3383c8372",
+      "toSide": "right"
+    },
+    {
+      "color": "5",
+      "fromNode": "9b9431e3383c8372",
+      "fromSide": "bottom",
+      "id": "a5e5c137c52cf747",
+      "styleAttributes": {
+      },
+      "toNode": "ef0acb552bec8d06",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "91f8943cdcad3d5b",
+      "fromSide": "right",
+      "id": "2b070313cfc37721",
+      "styleAttributes": {
+      },
+      "toNode": "ef0acb552bec8d06",
+      "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromNode": "bce0203b1f4e92b4",
+      "fromSide": "right",
+      "id": "4eaebc800d434d65",
+      "styleAttributes": {
+      },
+      "toNode": "341269d579472d0f",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "b42bfef1422527b6",
+      "fromSide": "right",
+      "id": "1f47bf59c06865ee",
+      "styleAttributes": {
+      },
+      "toNode": "2186f3e9b88f043f",
+      "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromNode": "cf3850773e9420ed",
+      "fromSide": "bottom",
+      "id": "c5e3f0220e79425e",
+      "styleAttributes": {
+      },
+      "toNode": "2186f3e9b88f043f",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "2186f3e9b88f043f",
+      "fromSide": "right",
+      "id": "73b90957ade7205a",
+      "styleAttributes": {
+      },
+      "toNode": "4185462738afe17e",
+      "toSide": "bottom"
+    },
+    {
+      "color": "6",
+      "fromNode": "2186f3e9b88f043f",
+      "fromSide": "right",
+      "id": "440f2d97304ee5d5",
+      "styleAttributes": {
+      },
+      "toNode": "a74a8d386e52951e",
+      "toSide": "bottom"
+    },
+    {
+      "color": "5",
+      "fromNode": "341269d579472d0f",
+      "fromSide": "right",
+      "id": "c42d171285a596d9",
+      "styleAttributes": {
+      },
+      "toNode": "63af29552f0e0eec",
+      "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromNode": "a74a8d386e52951e",
+      "fromSide": "top",
+      "id": "c32d301b00273832",
+      "styleAttributes": {
+      },
+      "toNode": "63af29552f0e0eec",
+      "toSide": "bottom"
+    },
+    {
+      "color": "5",
+      "fromNode": "130124bd6e15e4d9",
+      "fromSide": "bottom",
+      "id": "daaa3bbe33944054",
+      "styleAttributes": {
+      },
+      "toNode": "249c4751613a80a7",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "a74a8d386e52951e",
+      "fromSide": "right",
+      "id": "81dab9e710c72af1",
+      "styleAttributes": {
+      },
+      "toNode": "130124bd6e15e4d9",
+      "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromNode": "249c4751613a80a7",
+      "fromSide": "left",
+      "id": "d5f49e31882830d1",
+      "styleAttributes": {
+      },
+      "toNode": "b42bfef1422527b6",
+      "toSide": "bottom"
+    },
+    {
+      "color": "5",
+      "fromNode": "4185462738afe17e",
+      "fromSide": "top",
+      "id": "b8d47fb9dcd59281",
+      "styleAttributes": {
+      },
+      "toNode": "849818c2d3e69720",
+      "toSide": "bottom"
+    },
+    {
+      "color": "5",
+      "fromNode": "849818c2d3e69720",
+      "fromSide": "left",
+      "id": "66540d0a51631002",
+      "styleAttributes": {
+      },
+      "toNode": "bfa43c4d237160f9",
+      "toSide": "right"
+    },
+    {
+      "color": "6",
+      "fromNode": "bce0203b1f4e92b4",
+      "fromSide": "left",
+      "id": "c9c946b7832d3cdd",
+      "styleAttributes": {
+      },
+      "toNode": "19dbd7e07f93cc47",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {
+    "frontmatter": {
+    },
+    "version": "1.0-1.0"
+  },
+  "nodes": [
+    {
+      "color": "5",
+      "height": 60,
+      "id": "6b9de29bcbb1839b",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Electrun Ingot",
+      "type": "text",
+      "width": 260,
+      "x": -120,
+      "y": -20
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "1f2d6e86ae8f9bcf",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Alloy Smelter",
+      "type": "text",
+      "width": 260,
+      "x": -120,
+      "y": -160
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "ef0acb552bec8d06",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "MV Batch Reactor",
+      "type": "text",
+      "width": 260,
+      "x": -120,
+      "y": -300
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "19dbd7e07f93cc47",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Silver Dust",
+      "type": "text",
+      "width": 260,
+      "x": 220,
+      "y": -20
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "b42bfef1422527b6",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Nitrogen Dioxide Gas",
+      "type": "text",
+      "width": 260,
+      "x": 220,
+      "y": -240
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "45d8ef252a7f35dd",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Silver Nitrate Solution",
+      "type": "text",
+      "width": 260,
+      "x": 220,
+      "y": -360
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "bce0203b1f4e92b4",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Electrolyzer",
+      "type": "text",
+      "width": 260,
+      "x": 220,
+      "y": -500
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "bfa43c4d237160f9",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Nitric Acid",
+      "type": "text",
+      "width": 260,
+      "x": 220,
+      "y": -640
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "9b9431e3383c8372",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Nitric Acid",
+      "type": "text",
+      "width": 260,
+      "x": -120,
+      "y": -640
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "91f8943cdcad3d5b",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Raw Electrum Dust",
+      "type": "text",
+      "width": 260,
+      "x": -460,
+      "y": -300
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "341269d579472d0f",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Oxygen",
+      "type": "text",
+      "width": 260,
+      "x": 560,
+      "y": -500
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "2186f3e9b88f043f",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "CSTR",
+      "type": "text",
+      "width": 260,
+      "x": 560,
+      "y": -240
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "cf3850773e9420ed",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Water",
+      "type": "text",
+      "width": 260,
+      "x": 560,
+      "y": -360
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "4185462738afe17e",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Nitric Acid",
+      "type": "text",
+      "width": 260,
+      "x": 900,
+      "y": -360
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "a74a8d386e52951e",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Nitric Oxide Gas",
+      "type": "text",
+      "width": 260,
+      "x": 1240,
+      "y": -360
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "63af29552f0e0eec",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "CSTR",
+      "type": "text",
+      "width": 260,
+      "x": 1240,
+      "y": -500
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "130124bd6e15e4d9",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Nitrogen Dioxide Gas",
+      "type": "text",
+      "width": 260,
+      "x": 1580,
+      "y": -360
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "249c4751613a80a7",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Nitrogen Dioxide Gas",
+      "type": "text",
+      "width": 260,
+      "x": 1580,
+      "y": -160
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "849818c2d3e69720",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Nitric Acid",
+      "type": "text",
+      "width": 260,
+      "x": 900,
+      "y": -640
+    }
+  ]
+}

@@ -1,0 +1,822 @@
+{
+  "edges": [
+    {
+      "color": "6",
+      "fromNode": "df6bc0d1ad5887ad",
+      "fromSide": "bottom",
+      "id": "3a336a40b153c5b5",
+      "styleAttributes": {
+      },
+      "toNode": "8ae8b14a6541332f",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "5b7b779d82ba81a7",
+      "fromSide": "bottom",
+      "id": "82692a95c295f208",
+      "label": "Chrome Dust",
+      "styleAttributes": {
+      },
+      "toNode": "df6bc0d1ad5887ad",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "a71237bd916d9ccf",
+      "fromSide": "bottom",
+      "id": "9ae6b7e86a0c35ed",
+      "label": "Aluminium Dust",
+      "styleAttributes": {
+      },
+      "toNode": "5b7b779d82ba81a7",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "5b7b779d82ba81a7",
+      "fromSide": "left",
+      "id": "6d30e64d55202591",
+      "styleAttributes": {
+      },
+      "toNode": "c65bb17869aacf34",
+      "toSide": "right"
+    },
+    {
+      "color": "6",
+      "fromNode": "55d32f7878ee87fe",
+      "fromSide": "bottom",
+      "id": "15dbfa06d3dae6af",
+      "label": "Chromium Oxide",
+      "styleAttributes": {
+      },
+      "toNode": "5b7b779d82ba81a7",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "55d32f7878ee87fe",
+      "fromSide": "right",
+      "id": "94e8f1b6d7779e6b",
+      "styleAttributes": {
+      },
+      "toNode": "8bd5f1d8ee1011ef",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "2158f29322c26869",
+      "fromSide": "bottom",
+      "id": "61be13b21a593b90",
+      "label": "Chromium Trioxide Dust",
+      "styleAttributes": {
+      },
+      "toNode": "55d32f7878ee87fe",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "9359357fe7917f2d",
+      "fromSide": "right",
+      "id": "971e8da45daed941",
+      "styleAttributes": {
+      },
+      "toNode": "a71237bd916d9ccf",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "4f6c89bc9e0225f8",
+      "fromSide": "bottom",
+      "id": "c6065aea779c82fe",
+      "label": "Sodium Dichromate Dust",
+      "styleAttributes": {
+      },
+      "toNode": "2158f29322c26869",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "af60b4c2ca41ad76",
+      "fromSide": "bottom",
+      "id": "833f291c794bec90",
+      "label": "Sulfuric Acid",
+      "styleAttributes": {
+      },
+      "toNode": "2158f29322c26869",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "731ef824ab38a493",
+      "fromSide": "bottom",
+      "id": "51eb6b02c321ee25",
+      "label": "Sodium Dichromate Solution",
+      "styleAttributes": {
+      },
+      "toNode": "4f6c89bc9e0225f8",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "742a2cb1dd066a58",
+      "fromSide": "bottom",
+      "id": "84c6be91378ccf9b",
+      "label": "Sodium Chromate Solution",
+      "styleAttributes": {
+      },
+      "toNode": "731ef824ab38a493",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "4f6c89bc9e0225f8",
+      "fromSide": "right",
+      "id": "70f955c242dee65f",
+      "label": "Sulfuric Acid",
+      "styleAttributes": {
+      },
+      "toNode": "a2eacd1539890f3c",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "a2eacd1539890f3c",
+      "fromSide": "top",
+      "id": "64a03a049b3de98f",
+      "label": "Sulfuric Acid",
+      "styleAttributes": {
+      },
+      "toNode": "731ef824ab38a493",
+      "toSide": "right"
+    },
+    {
+      "color": "5",
+      "fromNode": "742a2cb1dd066a58",
+      "fromSide": "right",
+      "id": "b4d21ca4591bd956",
+      "styleAttributes": {
+      },
+      "toNode": "149cc684f5f31b91",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "3e28012389bc5a68",
+      "fromSide": "bottom",
+      "id": "c221bdd2247e464b",
+      "label": "Distilled Water",
+      "styleAttributes": {
+      },
+      "toNode": "742a2cb1dd066a58",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "cffda9b2fda6e44a",
+      "fromSide": "bottom",
+      "id": "09657a135543a52f",
+      "label": "Sodium Chromate Mixture Dust",
+      "styleAttributes": {
+      },
+      "toNode": "742a2cb1dd066a58",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "2d52730021479a62",
+      "fromSide": "left",
+      "id": "3d48b1489c096526",
+      "styleAttributes": {
+      },
+      "toNode": "cffda9b2fda6e44a",
+      "toSide": "right"
+    },
+    {
+      "color": "5",
+      "fromNode": "ca76bc739ef989d5",
+      "fromSide": "left",
+      "id": "5ad24210e84b9bdf",
+      "styleAttributes": {
+      },
+      "toNode": "cffda9b2fda6e44a",
+      "toSide": "right"
+    },
+    {
+      "color": "5",
+      "fromNode": "cffda9b2fda6e44a",
+      "fromSide": "right",
+      "id": "f8e736a87e1f1fed",
+      "styleAttributes": {
+      },
+      "toNode": "2dee9340370f4ed0",
+      "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromNode": "97e5f206a5f977cb",
+      "fromSide": "bottom",
+      "id": "f307c2561529a22b",
+      "styleAttributes": {
+      },
+      "toNode": "cffda9b2fda6e44a",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "b0123384b8204c8c",
+      "fromSide": "bottom",
+      "id": "d545900bb2bbe115",
+      "styleAttributes": {
+      },
+      "toNode": "3e28012389bc5a68",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "2158f29322c26869",
+      "fromSide": "right",
+      "id": "aaa3b4fe43dfebae",
+      "styleAttributes": {
+      },
+      "toNode": "a9d8590835648d98",
+      "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromNode": "b7498381622c533b",
+      "fromSide": "right",
+      "id": "46fce5fc127da030",
+      "styleAttributes": {
+      },
+      "toNode": "9a9d6e72cc8b6219",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "273434517d9d726c",
+      "fromSide": "left",
+      "id": "fe9d60b5064dbd06",
+      "styleAttributes": {
+      },
+      "toNode": "fbd6b3724102c664",
+      "toSide": "right"
+    },
+    {
+      "color": "5",
+      "fromNode": "c313c4aaad05d400",
+      "fromSide": "left",
+      "id": "60d500ee25e8279e",
+      "styleAttributes": {
+      },
+      "toNode": "273434517d9d726c",
+      "toSide": "right"
+    },
+    {
+      "color": "5",
+      "fromNode": "cc2e9d928cc7af38",
+      "fromSide": "left",
+      "id": "6f4285f7ddb44160",
+      "styleAttributes": {
+      },
+      "toNode": "9c1897e7fe1c4678",
+      "toSide": "right"
+    },
+    {
+      "color": "5",
+      "fromNode": "c1e82844d995e704",
+      "fromSide": "right",
+      "id": "99bc59a32e323441",
+      "styleAttributes": {
+      },
+      "toNode": "d353094a1bb15e5e",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "b7498381622c533b",
+      "fromSide": "left",
+      "id": "5a920f185f75be26",
+      "label": "Soda Ash Dust",
+      "styleAttributes": {
+      },
+      "toNode": "cffda9b2fda6e44a",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "9a9d6e72cc8b6219",
+      "fromSide": "bottom",
+      "id": "b84d631c1b84a38d",
+      "styleAttributes": {
+      },
+      "toNode": "c1e82844d995e704",
+      "toSide": "right"
+    },
+    {
+      "color": "6",
+      "fromNode": "9c1897e7fe1c4678",
+      "fromSide": "top",
+      "id": "bd05c692713fd109",
+      "label": "Sodium Sulfide Dust",
+      "styleAttributes": {
+      },
+      "toNode": "fbd6b3724102c664",
+      "toSide": "bottom"
+    },
+    {
+      "color": "5",
+      "fromNode": "9c1897e7fe1c4678",
+      "fromSide": "right",
+      "id": "5668eb5645fa5a4c",
+      "styleAttributes": {
+      },
+      "toNode": "a94f92b6e3a03c86",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "fbd6b3724102c664",
+      "fromSide": "top",
+      "id": "89957bf42c742407",
+      "label": "Black Ash Dust",
+      "styleAttributes": {
+      },
+      "toNode": "c1e82844d995e704",
+      "toSide": "bottom"
+    },
+    {
+      "color": "6",
+      "fromNode": "f20e20a8f301051b",
+      "fromSide": "top",
+      "id": "a541448c928775f4",
+      "label": "Sodium Sulfate Dust",
+      "styleAttributes": {
+      },
+      "toNode": "9c1897e7fe1c4678",
+      "toSide": "bottom"
+    },
+    {
+      "color": "5",
+      "fromNode": "a9d8590835648d98",
+      "fromSide": "right",
+      "id": "e19f1d2606cca8b0",
+      "styleAttributes": {
+      },
+      "toNode": "f20e20a8f301051b",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "c1e82844d995e704",
+      "fromSide": "top",
+      "id": "00a732f818f966ae",
+      "label": "Soda Ash Solution",
+      "styleAttributes": {
+      },
+      "toNode": "b7498381622c533b",
+      "toSide": "bottom"
+    }
+  ],
+  "metadata": {
+    "frontmatter": {
+    },
+    "version": "1.0-1.0"
+  },
+  "nodes": [
+    {
+      "color": "6",
+      "height": 60,
+      "id": "a71237bd916d9ccf",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Macerator",
+      "type": "text",
+      "width": 260,
+      "x": -360,
+      "y": -300
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "c65bb17869aacf34",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Alumina Dust",
+      "type": "text",
+      "width": 260,
+      "x": -490,
+      "y": -140
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "9359357fe7917f2d",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Aluminium Ingot",
+      "type": "text",
+      "width": 260,
+      "x": -700,
+      "y": -300
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "b0123384b8204c8c",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Water",
+      "type": "text",
+      "width": 260,
+      "x": 180,
+      "y": -1220
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "97e5f206a5f977cb",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Chromite Dust",
+      "type": "text",
+      "width": 260,
+      "x": 520,
+      "y": -1220
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "3e28012389bc5a68",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Distillery",
+      "type": "text",
+      "width": 260,
+      "x": 180,
+      "y": -1080
+    },
+    {
+      "file": "Sulfuric Acid.canvas",
+      "height": 400,
+      "id": "af60b4c2ca41ad76",
+      "type": "file",
+      "width": 400,
+      "x": -340,
+      "y": -950
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "742a2cb1dd066a58",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Batch Reactor (MV)",
+      "type": "text",
+      "width": 260,
+      "x": 340,
+      "y": -920
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "731ef824ab38a493",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "CSTR (MV)",
+      "type": "text",
+      "width": 260,
+      "x": 340,
+      "y": -780
+    },
+    {
+      "height": 60,
+      "id": "a2eacd1539890f3c",
+      "styleAttributes": {
+      },
+      "text": "",
+      "type": "text",
+      "width": 60,
+      "x": 740,
+      "y": -700
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "df6bc0d1ad5887ad",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Electric Blast Furnace",
+      "type": "text",
+      "width": 260,
+      "x": -160,
+      "y": 0
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "5b7b779d82ba81a7",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Reaction Furnace",
+      "type": "text",
+      "width": 260,
+      "x": -160,
+      "y": -140
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "8ae8b14a6541332f",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Chrome Ingot",
+      "type": "text",
+      "width": 260,
+      "x": -160,
+      "y": 140
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "2d52730021479a62",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Methane Gas",
+      "type": "text",
+      "width": 260,
+      "x": 1000,
+      "y": -1160
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "cffda9b2fda6e44a",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Rotary Kiln",
+      "type": "text",
+      "width": 260,
+      "x": 700,
+      "y": -1080
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "2dee9340370f4ed0",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Carbon Dioxide Gas",
+      "type": "text",
+      "width": 260,
+      "x": 1080,
+      "y": -1080
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "55d32f7878ee87fe",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Roaster (MV)",
+      "type": "text",
+      "width": 260,
+      "x": 40,
+      "y": -300
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "8bd5f1d8ee1011ef",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Dense Steam Gas",
+      "type": "text",
+      "width": 260,
+      "x": 380,
+      "y": -300
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "ca76bc739ef989d5",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Oxygen Gas",
+      "type": "text",
+      "width": 260,
+      "x": 1000,
+      "y": -1000
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "4f6c89bc9e0225f8",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Distillery",
+      "type": "text",
+      "width": 260,
+      "x": 340,
+      "y": -610
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "2158f29322c26869",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Batch Reactor",
+      "type": "text",
+      "width": 260,
+      "x": 40,
+      "y": -440
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "a9d8590835648d98",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Sodium Sulfate Solution",
+      "type": "text",
+      "width": 260,
+      "x": 380,
+      "y": -440
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "149cc684f5f31b91",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Iron (III) Oxide Dust",
+      "type": "text",
+      "width": 260,
+      "x": 700,
+      "y": -920
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "b7498381622c533b",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Distillery",
+      "type": "text",
+      "width": 260,
+      "x": 1340,
+      "y": -1220
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "c1e82844d995e704",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Mixer",
+      "type": "text",
+      "width": 260,
+      "x": 1340,
+      "y": -920
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "273434517d9d726c",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Macerator",
+      "type": "text",
+      "width": 260,
+      "x": 1690,
+      "y": -780
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "c313c4aaad05d400",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Calcite Ore",
+      "type": "text",
+      "width": 260,
+      "x": 2030,
+      "y": -780
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "9a9d6e72cc8b6219",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Water",
+      "type": "text",
+      "width": 260,
+      "x": 1690,
+      "y": -1220
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "d353094a1bb15e5e",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Calcium Sulfide Dust",
+      "type": "text",
+      "width": 260,
+      "x": 1690,
+      "y": -920
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "fbd6b3724102c664",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Roaster",
+      "type": "text",
+      "width": 260,
+      "x": 1340,
+      "y": -780
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "9c1897e7fe1c4678",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Roaster",
+      "type": "text",
+      "width": 260,
+      "x": 1340,
+      "y": -640
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "a94f92b6e3a03c86",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Carbon Dioxide Gas",
+      "type": "text",
+      "width": 260,
+      "x": 1690,
+      "y": -640
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "cc2e9d928cc7af38",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Carbon Dust",
+      "type": "text",
+      "width": 260,
+      "x": 1690,
+      "y": -500
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "f20e20a8f301051b",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Distillery",
+      "type": "text",
+      "width": 260,
+      "x": 1340,
+      "y": -500
+    }
+  ]
+}

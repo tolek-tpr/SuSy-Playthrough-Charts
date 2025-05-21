@@ -1,0 +1,528 @@
+{
+  "edges": [
+    {
+      "color": "5",
+      "fromNode": "5ae02851aadc57d5",
+      "fromSide": "bottom",
+      "id": "ec48c00792d2c802",
+      "styleAttributes": {
+      },
+      "toNode": "ff86fe63effd4f91",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "ff86fe63effd4f91",
+      "fromSide": "bottom",
+      "id": "1d87385e27159621",
+      "styleAttributes": {
+      },
+      "toNode": "fd1d86c638cad1e6",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "7aa36a7ad0b9e4c9",
+      "fromSide": "bottom",
+      "id": "4c66edff776a6090",
+      "styleAttributes": {
+      },
+      "toNode": "5ae02851aadc57d5",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "bd3ba4142e42c259",
+      "fromSide": "bottom",
+      "id": "99eeaf65aaaaef6d",
+      "label": "Ethylene Gas",
+      "styleAttributes": {
+      },
+      "toNode": "7aa36a7ad0b9e4c9",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromNode": "3bc1154be16f8afc",
+      "fromSide": "top",
+      "id": "96a053a24cdaba3d",
+      "label": "Sulfuric Acid",
+      "styleAttributes": {
+      },
+      "toNode": "7ff237a3ee68dd8e",
+      "toSide": "bottom"
+    },
+    {
+      "color": "3",
+      "fromNode": "bd3ba4142e42c259",
+      "fromSide": "right",
+      "id": "fac3d21bbf00f8f6",
+      "label": "Diluted Sulfuric Acid",
+      "styleAttributes": {
+      },
+      "toNode": "3bc1154be16f8afc",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromNode": "7ff237a3ee68dd8e",
+      "fromSide": "left",
+      "id": "88ff8c75253eaf64",
+      "label": "Hot Sulfuric Acid",
+      "styleAttributes": {
+      },
+      "toNode": "bd3ba4142e42c259",
+      "toSide": "right"
+    },
+    {
+      "color": "6",
+      "fromNode": "7209b3c53c7984e2",
+      "fromSide": "bottom",
+      "id": "f618af9e932382dc",
+      "label": "Ethanol-Water Azeotrope",
+      "styleAttributes": {
+      },
+      "toNode": "bd3ba4142e42c259",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "fd792c6b830605be",
+      "fromSide": "bottom",
+      "id": "9974cb4d24ff8c6b",
+      "label": "Impure Ethanol",
+      "styleAttributes": {
+      },
+      "toNode": "7209b3c53c7984e2",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromNode": "16e67ce329c8b336",
+      "fromSide": "right",
+      "id": "e0d8355c1435b9dd",
+      "styleAttributes": {
+      },
+      "toNode": "fd792c6b830605be",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "0b1e5b3490e28f04",
+      "fromSide": "bottom",
+      "id": "f69251f4db66aae3",
+      "label": "Sugar",
+      "styleAttributes": {
+      },
+      "toNode": "fd792c6b830605be",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "a2f6285053b2da9a",
+      "fromSide": "bottom",
+      "id": "01920acd539220e6",
+      "label": "Clarified Sugary Water",
+      "styleAttributes": {
+      },
+      "toNode": "0b1e5b3490e28f04",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromNode": "b21b9a896bf0d1fe",
+      "fromSide": "right",
+      "id": "b2ce54c4dfd64857",
+      "styleAttributes": {
+      },
+      "toNode": "6316e20919c80419",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromNode": "6316e20919c80419",
+      "fromSide": "right",
+      "id": "1643a4227df0e29c",
+      "label": "Quicklime Dust",
+      "styleAttributes": {
+      },
+      "toNode": "a2f6285053b2da9a",
+      "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromNode": "7209b3c53c7984e2",
+      "fromSide": "left",
+      "id": "5f77c88aaf710b4d",
+      "styleAttributes": {
+      },
+      "toNode": "71913fa8bf3767fd",
+      "toSide": "right"
+    },
+    {
+      "color": "6",
+      "fromNode": "dcb43f6a7a17acf7",
+      "fromSide": "bottom",
+      "id": "765b9895258a9d75",
+      "label": "Sugary Water",
+      "styleAttributes": {
+      },
+      "toNode": "a2f6285053b2da9a",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromNode": "c5fd70ff8e38725a",
+      "fromSide": "right",
+      "id": "db2bfe7574b7ef1f",
+      "styleAttributes": {
+      },
+      "toNode": "dcb43f6a7a17acf7",
+      "toSide": "left"
+    },
+    {
+      "color": "4",
+      "fromNode": "ecd83539e6dd1203",
+      "fromSide": "top",
+      "id": "c18057d5ba4dac75",
+      "styleAttributes": {
+      },
+      "toNode": "b21b9a896bf0d1fe",
+      "toSide": "bottom"
+    },
+    {
+      "color": "5",
+      "fromNode": "dcb43f6a7a17acf7",
+      "fromSide": "right",
+      "id": "18a1b5a420d824c4",
+      "styleAttributes": {
+      },
+      "toNode": "80671c7c9112d06f",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "4783128c0788ed0a",
+      "fromSide": "bottom",
+      "id": "7b5f12ba8e52269a",
+      "label": "Sugar Cane Dust",
+      "styleAttributes": {
+      },
+      "toNode": "dcb43f6a7a17acf7",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromNode": "34371da09d137ba6",
+      "fromSide": "bottom",
+      "id": "7cf98fe53892c138",
+      "styleAttributes": {
+      },
+      "toNode": "4783128c0788ed0a",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {
+    "frontmatter": {
+    },
+    "startNode": "5142457dd924d7ac",
+    "version": "1.0-1.0"
+  },
+  "nodes": [
+    {
+      "color": "3",
+      "height": 300,
+      "id": "9d1bc377d19d3265",
+      "label": "Quicklime Line",
+      "type": "group",
+      "width": 700,
+      "x": -900,
+      "y": -860
+    },
+    {
+      "color": "3",
+      "height": 400,
+      "id": "7cf750a48ad3009a",
+      "label": "Sulfuric Acid Line",
+      "type": "group",
+      "width": 360,
+      "x": 560,
+      "y": -300
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "7ff237a3ee68dd8e",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Fluid Heater",
+      "type": "text",
+      "width": 260,
+      "x": 620,
+      "y": -260
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "b21b9a896bf0d1fe",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Macerator",
+      "type": "text",
+      "width": 250,
+      "x": -860,
+      "y": -820
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "ecd83539e6dd1203",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Limestone",
+      "type": "text",
+      "width": 250,
+      "x": -860,
+      "y": -660
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "7209b3c53c7984e2",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Distillery",
+      "type": "text",
+      "width": 250,
+      "x": 40,
+      "y": -320
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "6316e20919c80419",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Electric Furnace",
+      "type": "text",
+      "width": 250,
+      "x": -485,
+      "y": -820
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "71913fa8bf3767fd",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Wood Pulp",
+      "type": "text",
+      "width": 250,
+      "x": -360,
+      "y": -320
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "16e67ce329c8b336",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Water",
+      "type": "text",
+      "width": 250,
+      "x": -360,
+      "y": -500
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "c5fd70ff8e38725a",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Water",
+      "type": "text",
+      "width": 250,
+      "x": -360,
+      "y": -980
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "bd3ba4142e42c259",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "CSTR",
+      "type": "text",
+      "width": 250,
+      "x": 40,
+      "y": -120
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "3bc1154be16f8afc",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Distillery",
+      "type": "text",
+      "width": 260,
+      "x": 620,
+      "y": 0
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "4783128c0788ed0a",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Macerator",
+      "type": "text",
+      "width": 250,
+      "x": 40,
+      "y": -1140
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "34371da09d137ba6",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Sugar Cane",
+      "type": "text",
+      "width": 250,
+      "x": 40,
+      "y": -1300
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "7aa36a7ad0b9e4c9",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Polymerization Tank",
+      "type": "text",
+      "width": 250,
+      "x": 40,
+      "y": 60
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "5ae02851aadc57d5",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "Polyethylene Pulp",
+      "type": "text",
+      "width": 250,
+      "x": 40,
+      "y": 200
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "ff86fe63effd4f91",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Extruder",
+      "type": "text",
+      "width": 250,
+      "x": 40,
+      "y": 340
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "fd1d86c638cad1e6",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "Polyethylene Bar",
+      "type": "text",
+      "width": 250,
+      "x": 40,
+      "y": 480
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "fd792c6b830605be",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Fermentation Vat",
+      "type": "text",
+      "width": 250,
+      "x": 40,
+      "y": -500
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "dcb43f6a7a17acf7",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Centrifuge",
+      "type": "text",
+      "width": 250,
+      "x": 40,
+      "y": -980
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "0b1e5b3490e28f04",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Crystalizer",
+      "type": "text",
+      "width": 250,
+      "x": 40,
+      "y": -660
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "a2f6285053b2da9a",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Mixer",
+      "type": "text",
+      "width": 250,
+      "x": 40,
+      "y": -820
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "80671c7c9112d06f",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Wood Pulp",
+      "type": "text",
+      "width": 250,
+      "x": 440,
+      "y": -980
+    }
+  ]
+}

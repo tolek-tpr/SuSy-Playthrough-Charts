@@ -1,0 +1,362 @@
+{
+  "edges": [
+    {
+      "color": "6",
+      "fromNode": "03025cdfcaaed5e3",
+      "fromSide": "bottom",
+      "id": "3a0038f602622d53",
+      "styleAttributes": {
+      },
+      "toNode": "e9af142b5d5166f5",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "5aa99a6e5d7eae25",
+      "fromSide": "right",
+      "id": "1ecaa0d40663510b",
+      "styleAttributes": {
+      },
+      "toNode": "03025cdfcaaed5e3",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "9a0624946a854087",
+      "fromSide": "bottom",
+      "id": "b545286d1f387847",
+      "label": "Cobalt Dust",
+      "styleAttributes": {
+      },
+      "toNode": "03025cdfcaaed5e3",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "9a0624946a854087",
+      "fromSide": "right",
+      "id": "e306fcbd16fcc284",
+      "styleAttributes": {
+      },
+      "toNode": "340f608ee4f41b5d",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "396f2bc8202019a1",
+      "fromSide": "bottom",
+      "id": "732d46bc43faa796",
+      "label": "Impure Cobalt Sulfate Solution",
+      "styleAttributes": {
+      },
+      "toNode": "9a0624946a854087",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "9a0624946a854087",
+      "fromSide": "right",
+      "id": "0fa3aa80b63b2e14",
+      "styleAttributes": {
+      },
+      "toNode": "d60ad5a08ef86ef5",
+      "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromNode": "d60ad5a08ef86ef5",
+      "fromSide": "left",
+      "id": "e2d96816a3d1068b",
+      "styleAttributes": {
+      },
+      "toNode": "396f2bc8202019a1",
+      "toSide": "right"
+    },
+    {
+      "color": "6",
+      "fromNode": "62e2054eb41c255d",
+      "fromSide": "bottom",
+      "id": "f8a8795a986cc3fe",
+      "label": "Impure Cobalt Oxide Dust",
+      "styleAttributes": {
+      },
+      "toNode": "396f2bc8202019a1",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "62e2054eb41c255d",
+      "fromSide": "right",
+      "id": "43216aa50cfcbad0",
+      "styleAttributes": {
+      },
+      "toNode": "8d3271923adc795c",
+      "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromNode": "62e2054eb41c255d",
+      "fromSide": "right",
+      "id": "60c3a91a8205cf7e",
+      "styleAttributes": {
+      },
+      "toNode": "93874644b9c4e4b6",
+      "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromNode": "8b729861b9c45157",
+      "fromSide": "right",
+      "id": "e90828dbc57410ff",
+      "styleAttributes": {
+      },
+      "toNode": "62e2054eb41c255d",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "2ae0637674b77512",
+      "fromSide": "bottom",
+      "id": "5e1afa9bc196c098",
+      "label": "Cobaltite Dust",
+      "styleAttributes": {
+      },
+      "toNode": "62e2054eb41c255d",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "79351fe306c20e54",
+      "fromSide": "bottom",
+      "id": "480c74f520a965fb",
+      "label": "Impure Pile of Cobaltite Dust",
+      "styleAttributes": {
+      },
+      "toNode": "2ae0637674b77512",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "7b066d8280e55496",
+      "fromSide": "bottom",
+      "id": "56227f02209675e6",
+      "label": "Crushed Cobaltite Ore",
+      "styleAttributes": {
+      },
+      "toNode": "79351fe306c20e54",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "687167903c228020",
+      "fromSide": "left",
+      "id": "912aa5e026290168",
+      "styleAttributes": {
+      },
+      "toNode": "7b066d8280e55496",
+      "toSide": "right"
+    }
+  ],
+  "metadata": {
+    "frontmatter": {
+    },
+    "version": "1.0-1.0"
+  },
+  "nodes": [
+    {
+      "color": "5",
+      "height": 60,
+      "id": "e9af142b5d5166f5",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Cobalt Ingot",
+      "type": "text",
+      "width": 260,
+      "x": 40,
+      "y": 180
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "03025cdfcaaed5e3",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "EBF",
+      "type": "text",
+      "width": 260,
+      "x": 40,
+      "y": 40
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "5aa99a6e5d7eae25",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Nitrogen Gas",
+      "type": "text",
+      "width": 260,
+      "x": -300,
+      "y": 40
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "9a0624946a854087",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Electrolytic Cell",
+      "type": "text",
+      "width": 260,
+      "x": 40,
+      "y": -100
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "396f2bc8202019a1",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Batch Reactor",
+      "type": "text",
+      "width": 260,
+      "x": 40,
+      "y": -240
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "340f608ee4f41b5d",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Oxygen Gas",
+      "type": "text",
+      "width": 260,
+      "x": 400,
+      "y": -20
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "d60ad5a08ef86ef5",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Sulfuric Acid",
+      "type": "text",
+      "width": 260,
+      "x": 400,
+      "y": -180
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "62e2054eb41c255d",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "EBF",
+      "type": "text",
+      "width": 260,
+      "x": 40,
+      "y": -380
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "8d3271923adc795c",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Arsenic Trioxide Dust",
+      "type": "text",
+      "width": 260,
+      "x": 400,
+      "y": -300
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "93874644b9c4e4b6",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Sulfur Dioxide Gas",
+      "type": "text",
+      "width": 260,
+      "x": 400,
+      "y": -460
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "8b729861b9c45157",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Oxygen Gas",
+      "type": "text",
+      "width": 260,
+      "x": -300,
+      "y": -380
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "2ae0637674b77512",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Ore Washing Plant",
+      "type": "text",
+      "width": 260,
+      "x": 40,
+      "y": -520
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "79351fe306c20e54",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Forge Hammer",
+      "type": "text",
+      "width": 260,
+      "x": 40,
+      "y": -660
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "7b066d8280e55496",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Macerator",
+      "type": "text",
+      "width": 260,
+      "x": 40,
+      "y": -800
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "687167903c228020",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Cobaltite Ore",
+      "type": "text",
+      "width": 260,
+      "x": 400,
+      "y": -800
+    }
+  ]
+}
