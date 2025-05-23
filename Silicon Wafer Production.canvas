@@ -1,0 +1,983 @@
+{
+  "edges": [
+    {
+      "color": "6",
+      "fromNode": "20508f02fbdbca57",
+      "fromSide": "bottom",
+      "id": "3896964bfbbce1e9",
+      "styleAttributes": {
+      },
+      "toNode": "2bdfa756d92df958",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "c4107500e92ba7e2",
+      "fromSide": "right",
+      "id": "006b2691233178a6",
+      "styleAttributes": {
+      },
+      "toNode": "20508f02fbdbca57",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "73f23a46895720fd",
+      "fromSide": "bottom",
+      "id": "fb1d2b30c13d184f",
+      "label": "Acid Treated Silicon Wafer",
+      "styleAttributes": {
+      },
+      "toNode": "20508f02fbdbca57",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "73f23a46895720fd",
+      "fromSide": "right",
+      "id": "909994d84b726335",
+      "styleAttributes": {
+      },
+      "toNode": "519025aec14bf553",
+      "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromNode": "52cdb1f345b56b11",
+      "fromSide": "right",
+      "id": "418171e3ec4a3a17",
+      "styleAttributes": {
+      },
+      "toNode": "73f23a46895720fd",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "4a8816aca59edce3",
+      "fromSide": "bottom",
+      "id": "b4721fb87848baf8",
+      "label": "Raw Silicon Wafer",
+      "styleAttributes": {
+      },
+      "toNode": "73f23a46895720fd",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "4fa3a44fae504045",
+      "fromSide": "right",
+      "id": "6f0b1fb5b13a36fe",
+      "styleAttributes": {
+      },
+      "toNode": "4a8816aca59edce3",
+      "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromNode": "4a8816aca59edce3",
+      "fromSide": "right",
+      "id": "d6dc6d892224b741",
+      "styleAttributes": {
+      },
+      "toNode": "7c8e26d7d253e615",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "e0ec5843a800b6f2",
+      "fromSide": "bottom",
+      "id": "6454d7dcfc3957dc",
+      "label": "Monocrystalline Silicon Boule",
+      "styleAttributes": {
+      },
+      "toNode": "4a8816aca59edce3",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "1969213a3b663052",
+      "fromSide": "bottom",
+      "id": "9ba18914f63911dd",
+      "label": "Unrefined Silicon Boule",
+      "styleAttributes": {
+      },
+      "toNode": "e0ec5843a800b6f2",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "7c8e26d7d253e615",
+      "fromSide": "top",
+      "id": "ec4be21007ccd2a6",
+      "styleAttributes": {
+      },
+      "toNode": "1969213a3b663052",
+      "toSide": "right"
+    },
+    {
+      "color": "5",
+      "fromNode": "b4f8bc16509809be",
+      "fromSide": "right",
+      "id": "27d90968c3c93582",
+      "styleAttributes": {
+      },
+      "toNode": "ee3dcb47c28bda63",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "ee3dcb47c28bda63",
+      "fromSide": "right",
+      "id": "1744e1fe960d8b49",
+      "styleAttributes": {
+      },
+      "toNode": "1969213a3b663052",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "5826a612031bb206",
+      "fromSide": "right",
+      "id": "fd3f4293d857612c",
+      "styleAttributes": {
+      },
+      "toNode": "4fa3a44fae504045",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "40341bae513fd799",
+      "fromSide": "right",
+      "id": "919abe9808da8952",
+      "styleAttributes": {
+      },
+      "toNode": "5826a612031bb206",
+      "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromNode": "337cad62f369b7a3",
+      "fromSide": "bottom",
+      "id": "b5a9841e76c75631",
+      "styleAttributes": {
+      },
+      "toNode": "40341bae513fd799",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "d3b1b3dfe9439d8f",
+      "fromSide": "bottom",
+      "id": "2aa40af827a5f4a2",
+      "styleAttributes": {
+      },
+      "toNode": "ef98c3cd6b923b79",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "ef98c3cd6b923b79",
+      "fromSide": "right",
+      "id": "92daeaa7396d4b98",
+      "styleAttributes": {
+      },
+      "toNode": "40341bae513fd799",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "1edc89bb3df1d457",
+      "fromSide": "right",
+      "id": "065e3f89b2d37684",
+      "styleAttributes": {
+      },
+      "toNode": "c4107500e92ba7e2",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "ef98c3cd6b923b79",
+      "fromSide": "right",
+      "id": "f6d144ba9f15e7e6",
+      "styleAttributes": {
+      },
+      "toNode": "1edc89bb3df1d457",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "490628172517d26e",
+      "fromSide": "top",
+      "id": "f637ba09a83c67e9",
+      "styleAttributes": {
+      },
+      "toNode": "1edc89bb3df1d457",
+      "toSide": "bottom"
+    },
+    {
+      "color": "6",
+      "fromNode": "7871338b97faf0f1",
+      "fromSide": "right",
+      "id": "d0f8387d7613b0ea",
+      "styleAttributes": {
+      },
+      "toNode": "1edc89bb3df1d457",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "e5e18826aaab1c8d",
+      "fromSide": "top",
+      "id": "fb2941a2dda41326",
+      "label": "Potassium Hydroxide Dust",
+      "styleAttributes": {
+      },
+      "toNode": "7871338b97faf0f1",
+      "toSide": "bottom"
+    },
+    {
+      "color": "5",
+      "fromNode": "9619516b71de9e64",
+      "fromSide": "top",
+      "id": "d91d2721a3979c57",
+      "styleAttributes": {
+      },
+      "toNode": "e5e18826aaab1c8d",
+      "toSide": "bottom"
+    },
+    {
+      "color": "6",
+      "fromNode": "b7f50aea02724c26",
+      "fromSide": "top",
+      "id": "f557befc8b578437",
+      "styleAttributes": {
+      },
+      "toNode": "490628172517d26e",
+      "toSide": "bottom"
+    },
+    {
+      "color": "6",
+      "fromNode": "a5f6fdea54dd7722",
+      "fromSide": "top",
+      "id": "a8512fbd747bc461",
+      "label": "Flint Dust",
+      "styleAttributes": {
+      },
+      "toNode": "b7f50aea02724c26",
+      "toSide": "bottom"
+    },
+    {
+      "color": "6",
+      "fromNode": "2e828f993b96eead",
+      "fromSide": "right",
+      "id": "56ecc558748d611f",
+      "label": "Flint",
+      "styleAttributes": {
+      },
+      "toNode": "a5f6fdea54dd7722",
+      "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromNode": "fda9b52adaa413f9",
+      "fromSide": "right",
+      "id": "0f7fcd703c245226",
+      "styleAttributes": {
+      },
+      "toNode": "2e828f993b96eead",
+      "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromNode": "519025aec14bf553",
+      "fromSide": "bottom",
+      "id": "11fb794ac350fad1",
+      "styleAttributes": {
+      },
+      "toNode": "79afac12e0990a96",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "893590c165900ef2",
+      "fromSide": "bottom",
+      "id": "1583be371a8c1b87",
+      "styleAttributes": {
+      },
+      "toNode": "337cad62f369b7a3",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "d3b1b3dfe9439d8f",
+      "fromSide": "top",
+      "id": "3b70e33c0f40199f",
+      "styleAttributes": {
+      },
+      "toNode": "893590c165900ef2",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "d04a5aefd53864d8",
+      "fromSide": "right",
+      "id": "c75f016576328ff0",
+      "styleAttributes": {
+      },
+      "toNode": "52cdb1f345b56b11",
+      "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromNode": "9daa2e0ca411236c",
+      "fromSide": "right",
+      "id": "ba07510eb0f286f5",
+      "styleAttributes": {
+      },
+      "toNode": "d04a5aefd53864d8",
+      "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromNode": "e1cc7e8b7720bca4",
+      "fromSide": "right",
+      "id": "2a46ef7ea9d616db",
+      "styleAttributes": {
+      },
+      "toNode": "d04a5aefd53864d8",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "465a6d83d9f8e61b",
+      "fromSide": "bottom",
+      "id": "be8260f1423a5c03",
+      "styleAttributes": {
+      },
+      "toNode": "9daa2e0ca411236c",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "b0713ec78d6ce55a",
+      "fromSide": "bottom",
+      "id": "e36f0bbc24736578",
+      "styleAttributes": {
+      },
+      "toNode": "465a6d83d9f8e61b",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "6a6e752b3b850281",
+      "fromSide": "bottom",
+      "id": "4ef8be1aca7fe845",
+      "styleAttributes": {
+      },
+      "toNode": "465a6d83d9f8e61b",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "b9486f483f202ad0",
+      "fromSide": "top",
+      "id": "1f9281f730c548a9",
+      "styleAttributes": {
+      },
+      "toNode": "e1cc7e8b7720bca4",
+      "toSide": "bottom"
+    },
+    {
+      "color": "5",
+      "fromNode": "9cda762a7c85aa0a",
+      "fromSide": "right",
+      "id": "7561463e3ba7afaf",
+      "styleAttributes": {
+      },
+      "toNode": "b9486f483f202ad0",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "0841d9f91606a377",
+      "fromSide": "top",
+      "id": "772a3031b65ef231",
+      "styleAttributes": {
+      },
+      "toNode": "b9486f483f202ad0",
+      "toSide": "bottom"
+    },
+    {
+      "color": "5",
+      "fromNode": "67c992c17d7ac2a2",
+      "fromSide": "right",
+      "id": "564a2e9f19e6137f",
+      "styleAttributes": {
+      },
+      "toNode": "0841d9f91606a377",
+      "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromNode": "c3503e9736ec077e",
+      "fromSide": "top",
+      "id": "674731418d27a8fa",
+      "styleAttributes": {
+      },
+      "toNode": "0841d9f91606a377",
+      "toSide": "bottom"
+    }
+  ],
+  "nodes": [
+    {
+      "color": "3",
+      "height": 520,
+      "id": "ec989d05307de440",
+      "label": "Silicon Dioxde Production",
+      "type": "group",
+      "width": 980,
+      "x": -1500,
+      "y": -180
+    },
+    {
+      "color": "2",
+      "height": 520,
+      "id": "1c29f913c16f895c",
+      "label": "Hydrofluoric Acid Production",
+      "type": "group",
+      "width": 640,
+      "x": -2200,
+      "y": -180
+    },
+    {
+      "color": "1",
+      "height": 400,
+      "id": "880df3bbccc6d712",
+      "label": "Hydrochloric Acid Production",
+      "type": "group",
+      "width": 640,
+      "x": -2200,
+      "y": -740
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "2bdfa756d92df958",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Silicon Wafer",
+      "type": "text",
+      "width": 260,
+      "x": -120,
+      "y": -20
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "20508f02fbdbca57",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Polishing Machine",
+      "type": "text",
+      "width": 260,
+      "x": -120,
+      "y": -160
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "c4107500e92ba7e2",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Silicon Dioxide Slurry",
+      "type": "text",
+      "width": 260,
+      "x": -460,
+      "y": -160
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "73f23a46895720fd",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Chemical Bath",
+      "type": "text",
+      "width": 260,
+      "x": -120,
+      "y": -300
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "519025aec14bf553",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Acidic Wastewater",
+      "type": "text",
+      "width": 260,
+      "x": 220,
+      "y": -300
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "52cdb1f345b56b11",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Wafer Treatment Acid",
+      "type": "text",
+      "width": 260,
+      "x": -460,
+      "y": -300
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "4a8816aca59edce3",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Chemical Bath",
+      "type": "text",
+      "width": 260,
+      "x": -120,
+      "y": -440
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "4fa3a44fae504045",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Ultrapure Water",
+      "type": "text",
+      "width": 260,
+      "x": -460,
+      "y": -440
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "7c8e26d7d253e615",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Silicon Seed Crystal",
+      "type": "text",
+      "width": 260,
+      "x": 220,
+      "y": -440
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "e0ec5843a800b6f2",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Zone Refiner",
+      "type": "text",
+      "width": 260,
+      "x": -120,
+      "y": -580
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "1969213a3b663052",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Crystallizer",
+      "type": "text",
+      "width": 260,
+      "x": -120,
+      "y": -720
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "ee3dcb47c28bda63",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Extractor",
+      "type": "text",
+      "width": 260,
+      "x": -460,
+      "y": -720
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "b4f8bc16509809be",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "High Purity Silicon Dust",
+      "type": "text",
+      "width": 260,
+      "x": -800,
+      "y": -720
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "5826a612031bb206",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Distillery",
+      "type": "text",
+      "width": 260,
+      "x": -800,
+      "y": -440
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "40341bae513fd799",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Vacuum Ejection",
+      "type": "text",
+      "width": 260,
+      "x": -1140,
+      "y": -440
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "337cad62f369b7a3",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Steam Gas",
+      "type": "text",
+      "width": 260,
+      "x": -1140,
+      "y": -580
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "ef98c3cd6b923b79",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Ion Exchange",
+      "type": "text",
+      "width": 260,
+      "x": -1480,
+      "y": -440
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "d3b1b3dfe9439d8f",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Water",
+      "type": "text",
+      "width": 260,
+      "x": -1480,
+      "y": -580
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "1edc89bb3df1d457",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Mixer",
+      "type": "text",
+      "width": 260,
+      "x": -800,
+      "y": -160
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "490628172517d26e",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Silicon Dioxide Dust",
+      "type": "text",
+      "width": 260,
+      "x": -800,
+      "y": -20
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "7871338b97faf0f1",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Packager",
+      "type": "text",
+      "width": 260,
+      "x": -1140,
+      "y": -160
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "e5e18826aaab1c8d",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Distillery",
+      "type": "text",
+      "width": 260,
+      "x": -1140,
+      "y": -20
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "9619516b71de9e64",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Potassium Hydroxide Solution",
+      "type": "text",
+      "width": 260,
+      "x": -1140,
+      "y": 120
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "b7f50aea02724c26",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Centrifuge",
+      "type": "text",
+      "width": 260,
+      "x": -800,
+      "y": 120
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "a5f6fdea54dd7722",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Macerator",
+      "type": "text",
+      "width": 260,
+      "x": -800,
+      "y": 260
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "2e828f993b96eead",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Sifting Machine",
+      "type": "text",
+      "width": 260,
+      "x": -1140,
+      "y": 260
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "fda9b52adaa413f9",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Gravel",
+      "type": "text",
+      "width": 260,
+      "x": -1480,
+      "y": 260
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "79afac12e0990a96",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Dumper",
+      "type": "text",
+      "width": 260,
+      "x": 220,
+      "y": -160
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "893590c165900ef2",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Fluid Heater",
+      "type": "text",
+      "width": 260,
+      "x": -1140,
+      "y": -720
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "e1cc7e8b7720bca4",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Hydrofluoric Acid",
+      "type": "text",
+      "width": 260,
+      "x": -1840,
+      "y": -160
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "d04a5aefd53864d8",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Mixer",
+      "type": "text",
+      "width": 260,
+      "x": -1480,
+      "y": -300
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "b9486f483f202ad0",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Bubble Column Reactor",
+      "type": "text",
+      "width": 260,
+      "x": -1840,
+      "y": -20
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "9cda762a7c85aa0a",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Water",
+      "type": "text",
+      "width": 260,
+      "x": -2180,
+      "y": -20
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "0841d9f91606a377",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Batch Reactor",
+      "type": "text",
+      "width": 260,
+      "x": -1840,
+      "y": 120
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "67c992c17d7ac2a2",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Sulfuric Acid",
+      "type": "text",
+      "width": 260,
+      "x": -2180,
+      "y": 120
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "c3503e9736ec077e",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Fluorite Dust",
+      "type": "text",
+      "width": 260,
+      "x": -1840,
+      "y": 260
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "465a6d83d9f8e61b",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Roaster",
+      "type": "text",
+      "width": 260,
+      "x": -2020,
+      "y": -580
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "9daa2e0ca411236c",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Hydrochloric Acid",
+      "type": "text",
+      "width": 260,
+      "x": -2020,
+      "y": -440
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "b0713ec78d6ce55a",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Salt",
+      "type": "text",
+      "width": 260,
+      "x": -2180,
+      "y": -720
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "6a6e752b3b850281",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Sulfuric Acid",
+      "type": "text",
+      "width": 260,
+      "x": -1840,
+      "y": -720
+    }
+  ]
+}

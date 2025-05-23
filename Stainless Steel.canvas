@@ -603,6 +603,11 @@
       "toSide": "top"
     }
   ],
+  "metadata": {
+    "frontmatter": {
+    },
+    "version": "1.0-1.0"
+  },
   "nodes": [
     {
       "color": "3",
@@ -615,16 +620,6 @@
       "y": -20
     },
     {
-      "color": "3",
-      "height": 580,
-      "id": "d801ea79e33ef8b2",
-      "label": "Ferrosilicon",
-      "type": "group",
-      "width": 1360,
-      "x": -2120,
-      "y": -760
-    },
-    {
       "color": "2",
       "height": 340,
       "id": "9ab1a1b09ba77445",
@@ -635,43 +630,14 @@
       "y": 640
     },
     {
-      "color": "6",
-      "height": 60,
-      "id": "f6c01b5d9321902f",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Fluid Solidifier",
-      "type": "text",
-      "width": 260,
-      "x": 0,
-      "y": 160
-    },
-    {
-      "color": "5",
-      "height": 60,
-      "id": "83d1ca534a2ca834",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Stainless Steel Ingot",
-      "type": "text",
-      "width": 260,
-      "x": 0,
-      "y": 300
-    },
-    {
-      "color": "6",
-      "height": 60,
-      "id": "1dc5a1c972d5424a",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Advanced Arc Furnace",
-      "type": "text",
-      "width": 260,
-      "x": 0,
-      "y": 20
+      "color": "3",
+      "height": 580,
+      "id": "d801ea79e33ef8b2",
+      "label": "Ferrosilicon",
+      "type": "group",
+      "width": 1360,
+      "x": -2120,
+      "y": -760
     },
     {
       "color": "5",
@@ -728,149 +694,6 @@
     {
       "color": "5",
       "height": 60,
-      "id": "d39d34f09523b2f5",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Liquid Carburized Stainless Steel",
-      "type": "text",
-      "width": 260,
-      "x": -380,
-      "y": 20
-    },
-    {
-      "color": "6",
-      "height": 60,
-      "id": "983c7f94b7d93d93",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "EBF (HV)",
-      "type": "text",
-      "width": 260,
-      "x": -760,
-      "y": 20
-    },
-    {
-      "color": "5",
-      "height": 60,
-      "id": "299ddabc71558d6e",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Iron Dust",
-      "type": "text",
-      "width": 260,
-      "x": -1060,
-      "y": 240
-    },
-    {
-      "color": "5",
-      "height": 60,
-      "id": "9631da51f3b8d100",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Nickel Dust",
-      "type": "text",
-      "width": 260,
-      "x": -760,
-      "y": 240
-    },
-    {
-      "color": "5",
-      "height": 60,
-      "id": "db0764c209048406",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Tiny Pile Of Manganese Dust",
-      "type": "text",
-      "width": 260,
-      "x": -460,
-      "y": 240
-    },
-    {
-      "color": "6",
-      "height": 60,
-      "id": "c115bbe762b1bdbb",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Macerator",
-      "type": "text",
-      "width": 260,
-      "x": -1060,
-      "y": 360
-    },
-    {
-      "color": "6",
-      "height": 60,
-      "id": "5e1d4d3c032bc50f",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Macerator",
-      "type": "text",
-      "width": 260,
-      "x": -760,
-      "y": 360
-    },
-    {
-      "color": "5",
-      "height": 60,
-      "id": "6250a8b25aaa9516",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Nickel Ingot",
-      "type": "text",
-      "width": 260,
-      "x": -760,
-      "y": 480
-    },
-    {
-      "color": "5",
-      "height": 60,
-      "id": "9fcd177744f28aaf",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Iron Ingot",
-      "type": "text",
-      "width": 260,
-      "x": -1060,
-      "y": 480
-    },
-    {
-      "color": "6",
-      "height": 60,
-      "id": "8b357713f7b6861b",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Packager",
-      "type": "text",
-      "width": 260,
-      "x": -460,
-      "y": 360
-    },
-    {
-      "color": "6",
-      "height": 60,
-      "id": "f0caf49315006cb7",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "EBF",
-      "type": "text",
-      "width": 260,
-      "x": -460,
-      "y": 480
-    },
-    {
-      "color": "5",
-      "height": 60,
       "id": "4dad733f5de84cba",
       "styleAttributes": {
         "textAlign": "center"
@@ -921,32 +744,6 @@
       "y": -280
     },
     {
-      "color": "5",
-      "height": 60,
-      "id": "9f41d301b01831e6",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Pyrolusite Dust",
-      "type": "text",
-      "width": 260,
-      "x": -1060,
-      "y": 660
-    },
-    {
-      "color": "6",
-      "height": 60,
-      "id": "b50aca58fe737bb4",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Ore Washing Plant",
-      "type": "text",
-      "width": 260,
-      "x": -1060,
-      "y": 780
-    },
-    {
       "color": "6",
       "height": 60,
       "id": "f735ebc4837b9636",
@@ -971,58 +768,6 @@
       "width": 260,
       "x": -1360,
       "y": 900
-    },
-    {
-      "color": "5",
-      "height": 60,
-      "id": "644faaf8c052b4ab",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Pyrolusite Ore",
-      "type": "text",
-      "width": 260,
-      "x": -1360,
-      "y": 780
-    },
-    {
-      "color": "5",
-      "height": 60,
-      "id": "2496b949f37aa808",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Anthracite",
-      "type": "text",
-      "width": 260,
-      "x": -760,
-      "y": 660
-    },
-    {
-      "color": "5",
-      "height": 60,
-      "id": "3a970c6a3afa64c7",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Tiny Pile Of Calcite Dust",
-      "type": "text",
-      "width": 260,
-      "x": -460,
-      "y": 660
-    },
-    {
-      "color": "6",
-      "height": 60,
-      "id": "277a722b2f547f91",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Packager",
-      "type": "text",
-      "width": 260,
-      "x": -460,
-      "y": 780
     },
     {
       "color": "5",
@@ -1400,6 +1145,266 @@
       "width": 260,
       "x": 650,
       "y": -920
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "f6c01b5d9321902f",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Fluid Solidifier",
+      "type": "text",
+      "width": 260,
+      "x": 0,
+      "y": 160
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "83d1ca534a2ca834",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Stainless Steel Ingot",
+      "type": "text",
+      "width": 260,
+      "x": 0,
+      "y": 300
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "1dc5a1c972d5424a",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Advanced Arc Furnace",
+      "type": "text",
+      "width": 260,
+      "x": 0,
+      "y": 20
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "d39d34f09523b2f5",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Liquid Carburized Stainless Steel",
+      "type": "text",
+      "width": 260,
+      "x": -380,
+      "y": 20
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "9631da51f3b8d100",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Nickel Dust",
+      "type": "text",
+      "width": 260,
+      "x": -760,
+      "y": 240
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "db0764c209048406",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Tiny Pile Of Manganese Dust",
+      "type": "text",
+      "width": 260,
+      "x": -460,
+      "y": 240
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "5e1d4d3c032bc50f",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Macerator",
+      "type": "text",
+      "width": 260,
+      "x": -760,
+      "y": 360
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "6250a8b25aaa9516",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Nickel Ingot",
+      "type": "text",
+      "width": 260,
+      "x": -760,
+      "y": 480
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "8b357713f7b6861b",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Packager",
+      "type": "text",
+      "width": 260,
+      "x": -460,
+      "y": 360
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "f0caf49315006cb7",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "EBF",
+      "type": "text",
+      "width": 260,
+      "x": -460,
+      "y": 480
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "983c7f94b7d93d93",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "EBF (HV)",
+      "type": "text",
+      "width": 260,
+      "x": -760,
+      "y": 20
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "9fcd177744f28aaf",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Iron Ingot",
+      "type": "text",
+      "width": 260,
+      "x": -1060,
+      "y": 480
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "9f41d301b01831e6",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Pyrolusite Dust",
+      "type": "text",
+      "width": 260,
+      "x": -1060,
+      "y": 660
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "b50aca58fe737bb4",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Ore Washing Plant",
+      "type": "text",
+      "width": 260,
+      "x": -1060,
+      "y": 780
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "644faaf8c052b4ab",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Pyrolusite Ore",
+      "type": "text",
+      "width": 260,
+      "x": -1360,
+      "y": 780
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "2496b949f37aa808",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Anthracite",
+      "type": "text",
+      "width": 260,
+      "x": -760,
+      "y": 660
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "3a970c6a3afa64c7",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Tiny Pile Of Calcite Dust",
+      "type": "text",
+      "width": 260,
+      "x": -460,
+      "y": 660
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "277a722b2f547f91",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Packager",
+      "type": "text",
+      "width": 260,
+      "x": -460,
+      "y": 780
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "299ddabc71558d6e",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Iron Dust",
+      "type": "text",
+      "width": 260,
+      "x": -1060,
+      "y": 240
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "c115bbe762b1bdbb",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Macerator",
+      "type": "text",
+      "width": 260,
+      "x": -1060,
+      "y": 360
     }
   ]
 }
