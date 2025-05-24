@@ -428,6 +428,11 @@
       "toSide": "bottom"
     }
   ],
+  "metadata": {
+    "frontmatter": {
+    },
+    "version": "1.0-1.0"
+  },
   "nodes": [
     {
       "color": "3",
@@ -460,6 +465,123 @@
       "y": -740
     },
     {
+      "color": "6",
+      "height": 60,
+      "id": "73f23a46895720fd",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Chemical Bath",
+      "type": "text",
+      "width": 260,
+      "x": -120,
+      "y": -300
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "4a8816aca59edce3",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Cutting Saw",
+      "type": "text",
+      "width": 260,
+      "x": -120,
+      "y": -440
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "ef98c3cd6b923b79",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Ion Exchange",
+      "type": "text",
+      "width": 260,
+      "x": -1480,
+      "y": -440
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "d3b1b3dfe9439d8f",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Water",
+      "type": "text",
+      "width": 260,
+      "x": -1480,
+      "y": -580
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "d04a5aefd53864d8",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Mixer",
+      "type": "text",
+      "width": 260,
+      "x": -1480,
+      "y": -300
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "465a6d83d9f8e61b",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Roaster",
+      "type": "text",
+      "width": 260,
+      "x": -2020,
+      "y": -580
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "9daa2e0ca411236c",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Hydrochloric Acid",
+      "type": "text",
+      "width": 260,
+      "x": -2020,
+      "y": -440
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "b0713ec78d6ce55a",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Salt",
+      "type": "text",
+      "width": 260,
+      "x": -2180,
+      "y": -720
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "6a6e752b3b850281",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Sulfuric Acid",
+      "type": "text",
+      "width": 260,
+      "x": -1840,
+      "y": -720
+    },
+    {
       "color": "5",
       "height": 60,
       "id": "2bdfa756d92df958",
@@ -488,32 +610,6 @@
     {
       "color": "5",
       "height": 60,
-      "id": "c4107500e92ba7e2",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Silicon Dioxide Slurry",
-      "type": "text",
-      "width": 260,
-      "x": -460,
-      "y": -160
-    },
-    {
-      "color": "6",
-      "height": 60,
-      "id": "73f23a46895720fd",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Chemical Bath",
-      "type": "text",
-      "width": 260,
-      "x": -120,
-      "y": -300
-    },
-    {
-      "color": "5",
-      "height": 60,
       "id": "519025aec14bf553",
       "styleAttributes": {
         "textAlign": "center"
@@ -536,19 +632,6 @@
       "width": 260,
       "x": -460,
       "y": -300
-    },
-    {
-      "color": "6",
-      "height": 60,
-      "id": "4a8816aca59edce3",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Chemical Bath",
-      "type": "text",
-      "width": 260,
-      "x": -120,
-      "y": -440
     },
     {
       "color": "5",
@@ -616,6 +699,32 @@
       "y": -720
     },
     {
+      "color": "6",
+      "height": 60,
+      "id": "79afac12e0990a96",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Dumper",
+      "type": "text",
+      "width": 260,
+      "x": 220,
+      "y": -160
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "c4107500e92ba7e2",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Silicon Dioxide Slurry",
+      "type": "text",
+      "width": 260,
+      "x": -460,
+      "y": -160
+    },
+    {
       "color": "5",
       "height": 60,
       "id": "b4f8bc16509809be",
@@ -670,32 +779,6 @@
     {
       "color": "6",
       "height": 60,
-      "id": "ef98c3cd6b923b79",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Ion Exchange",
-      "type": "text",
-      "width": 260,
-      "x": -1480,
-      "y": -440
-    },
-    {
-      "color": "5",
-      "height": 60,
-      "id": "d3b1b3dfe9439d8f",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Water",
-      "type": "text",
-      "width": 260,
-      "x": -1480,
-      "y": -580
-    },
-    {
-      "color": "6",
-      "height": 60,
       "id": "1edc89bb3df1d457",
       "styleAttributes": {
         "textAlign": "center"
@@ -704,6 +787,45 @@
       "type": "text",
       "width": 260,
       "x": -800,
+      "y": -160
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "7871338b97faf0f1",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Packager",
+      "type": "text",
+      "width": 260,
+      "x": -1140,
+      "y": -160
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "893590c165900ef2",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Fluid Heater",
+      "type": "text",
+      "width": 260,
+      "x": -1140,
+      "y": -720
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "e1cc7e8b7720bca4",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Hydrofluoric Acid",
+      "type": "text",
+      "width": 260,
+      "x": -1840,
       "y": -160
     },
     {
@@ -718,19 +840,6 @@
       "width": 260,
       "x": -800,
       "y": -20
-    },
-    {
-      "color": "6",
-      "height": 60,
-      "id": "7871338b97faf0f1",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Packager",
-      "type": "text",
-      "width": 260,
-      "x": -1140,
-      "y": -160
     },
     {
       "color": "6",
@@ -770,97 +879,6 @@
       "width": 260,
       "x": -800,
       "y": 120
-    },
-    {
-      "color": "6",
-      "height": 60,
-      "id": "a5f6fdea54dd7722",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Macerator",
-      "type": "text",
-      "width": 260,
-      "x": -800,
-      "y": 260
-    },
-    {
-      "color": "6",
-      "height": 60,
-      "id": "2e828f993b96eead",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Sifting Machine",
-      "type": "text",
-      "width": 260,
-      "x": -1140,
-      "y": 260
-    },
-    {
-      "color": "5",
-      "height": 60,
-      "id": "fda9b52adaa413f9",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Gravel",
-      "type": "text",
-      "width": 260,
-      "x": -1480,
-      "y": 260
-    },
-    {
-      "color": "6",
-      "height": 60,
-      "id": "79afac12e0990a96",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Dumper",
-      "type": "text",
-      "width": 260,
-      "x": 220,
-      "y": -160
-    },
-    {
-      "color": "6",
-      "height": 60,
-      "id": "893590c165900ef2",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Fluid Heater",
-      "type": "text",
-      "width": 260,
-      "x": -1140,
-      "y": -720
-    },
-    {
-      "color": "5",
-      "height": 60,
-      "id": "e1cc7e8b7720bca4",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Hydrofluoric Acid",
-      "type": "text",
-      "width": 260,
-      "x": -1840,
-      "y": -160
-    },
-    {
-      "color": "6",
-      "height": 60,
-      "id": "d04a5aefd53864d8",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Mixer",
-      "type": "text",
-      "width": 260,
-      "x": -1480,
-      "y": -300
     },
     {
       "color": "6",
@@ -930,54 +948,41 @@
     {
       "color": "6",
       "height": 60,
-      "id": "465a6d83d9f8e61b",
+      "id": "a5f6fdea54dd7722",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "text": "Roaster",
+      "text": "Macerator",
       "type": "text",
       "width": 260,
-      "x": -2020,
-      "y": -580
+      "x": -800,
+      "y": 260
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "2e828f993b96eead",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Sifting Machine",
+      "type": "text",
+      "width": 260,
+      "x": -1140,
+      "y": 260
     },
     {
       "color": "5",
       "height": 60,
-      "id": "9daa2e0ca411236c",
+      "id": "fda9b52adaa413f9",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "text": "Hydrochloric Acid",
+      "text": "Gravel",
       "type": "text",
       "width": 260,
-      "x": -2020,
-      "y": -440
-    },
-    {
-      "color": "5",
-      "height": 60,
-      "id": "b0713ec78d6ce55a",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Salt",
-      "type": "text",
-      "width": 260,
-      "x": -2180,
-      "y": -720
-    },
-    {
-      "color": "5",
-      "height": 60,
-      "id": "6a6e752b3b850281",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Sulfuric Acid",
-      "type": "text",
-      "width": 260,
-      "x": -1840,
-      "y": -720
+      "x": -1480,
+      "y": 260
     }
   ]
 }
